@@ -85,7 +85,7 @@ nav {
     width: 8vw;
     height: 8vw;
     border-radius: 50%;
-    background-color: red;
+/*     background-color: red; */
     position: relative;
     overflow: hidden;
 }
